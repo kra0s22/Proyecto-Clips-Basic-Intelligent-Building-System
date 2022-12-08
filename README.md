@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A basic intelligent building system that uses the CLIPS language to make decisions based on the information provided by the sensors.
     <br> 
 </p>
 
